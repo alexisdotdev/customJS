@@ -1,4 +1,4 @@
-const Aseguradoras = [
+let Aseguradoras = [
   {
     "ID": 1,
     "Nombre": "Ana Seguros",
