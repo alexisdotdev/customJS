@@ -1,4 +1,4 @@
-let Aseguradoras = [
+var Aseguradoras = [
   {
     "ID": 1,
     "Nombre": "Ana Seguros",
