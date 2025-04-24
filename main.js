@@ -1,4 +1,4 @@
-var Aseguradoras = [
+let Aseguradoras = [
   {
     "ID": 1,
     "Nombre": "Ana Seguros",
@@ -342,7 +342,7 @@ var Aseguradoras = [
   }
 ]
 
-var Modelos = [
+let Modelos = [
   {
     "MarcaId": 1,
     "Marca": "Acura",
@@ -480,7 +480,7 @@ let PerfilCotizacion = {
   aseguradoras: [],
 }
 
-const configuracion = {
+let configuracion = {
   layoutConfig: {
     inlineLayout: false,
     pillShape: true
